@@ -14,7 +14,8 @@ body {
 }
 
 .box1 {
-  background: linear-gradient(90deg, #000000 -6%, #000000 -15%, rgba(0, 0, 0, 0) 127%), url(image/dark-hero-3-cover.png);}
+  background: linear-gradient(90deg, #000000 -6%, #000000 -15%, rgba(0, 0, 0, 0) 127%), url(image/dark-hero-3-cover.png);
+background-size: cover;}
 
 .header {
   width: 1600px;
@@ -37,7 +38,7 @@ body {
   text-align: left;
 }
 
-.nav-link a {
+a {
   margin-left: 60px;
   text-decoration: none;
   color: white;
